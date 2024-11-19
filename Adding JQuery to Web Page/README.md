@@ -36,9 +36,7 @@ Content Delivery Network (CDN) ka use karke aap bina jQuery ko download kiye, di
 ## Advantages of Using CDN:
 
 - Fast loading speed because CDN servers are optimized.
-
 - Browser cache kar leta hai, to baar-baar load nahi karna padta.
-
 - No need to download the jQuery file.
 
 
@@ -53,7 +51,7 @@ Agar aapke paas internet nahi hai ya aap offline kaam kar rahe ho, to jQuery fil
 1. Visit the jQuery Download Page.
 2. Latest version ki jQuery file download karo (.min.js file recommended hai).
 3. Apne project folder me jQuery file ko save karo (e.g., js folder me).
-4. HTML file me <script> tag ke andar uska path specify karo.
+4. HTML file me `<script>` tag ke andar uska path specify karo.
 
 
 
