@@ -18,7 +18,7 @@ Iska matlab hai ki kam code likhkar zyada functionality achieve kar sakte ho.
 ## jQuery Syntax  
 jQuery ka kaam hota hai elements ko **select** karna aur unpar **action perform** karna. Syntax simple hai:  
 
-```JQuery
+```javascript
 $(selector).action();
 ```
 - $: jQuery ko represent karta hai.
@@ -38,7 +38,7 @@ document.getElementById("myElement").style.display = "none";
 
 Lekin jQuery me wahi kaam ek line me ho jata hai:
 
-```jQuery
+```javascript
 $("#myElement").hide();
 ```
 
